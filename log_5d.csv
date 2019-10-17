@@ -1,0 +1,1 @@
+Time,ticker,Confusion_Matrix,Data File,network_mode,feature_mode1,feature_mode2,Features1,Features2,Accuacy,Precision,Recall,f1-score,target_mode,classes,filter_mode,timesteps,train_rate,val_rate,val_split,input_dim,node,preprocesser,num_epoch,batch_size,flatten
